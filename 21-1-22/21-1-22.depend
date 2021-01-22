@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611307001 source:c:\users\1\desktop\main.cpp
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+
+1611321377 source:c:\users\1\desktop\c”Ô—‘\21-1-22\main.cpp
+	<iostream>
+
